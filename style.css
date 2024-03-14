@@ -68,3 +68,35 @@ font-family: "Poppins",sans-serif;
     background: none;
     padding: 0 17px;
 }
+
+.generate-form .conntrols {
+    display: flex;
+    height: 100%;
+    gap: 15px;
+}
+
+.generate-form .controls{
+    display: flex;
+    height: 100%;
+    gap:15px
+}
+
+.generate-form .img-quantity {
+    outline: none;
+    border: none;
+    background: none;
+    font-size: 1rem;
+}
+
+.generate-form .generate-btn {
+    font-size: 1rem;
+    outline: none;
+    border: none;
+    color: #ffff;
+    font-size: 1rem;
+    font-weight: 500;
+    padding: 0 ;
+    border-radius: 30px;
+    background: #4949E7;
+
+}
